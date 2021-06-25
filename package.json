@@ -8,8 +8,7 @@
   },
   "homepage": "https://github.com/felixge/node-style-guide#readme",
   "keywords": [
-    "eslint",
-    "jshint"
+    "eslint"
   ],
   "license": "CC-BY-SA-3.0",
   "main": "index.js",
